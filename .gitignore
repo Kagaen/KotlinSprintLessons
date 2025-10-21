@@ -21,7 +21,7 @@ out/
 .kotlin
 
 ### Eclipse ###
-.apt_generated
+.apt_generated2
 .classpath
 .factorypath
 .project
